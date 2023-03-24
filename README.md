@@ -76,6 +76,10 @@ Depending on your system, it might be necessary to trigger/reload udev<br>
 `sudo reload udev` <br>
 Mostly, it should work to copy the rule and then plug in the device.<p>
 
+For Ubuntu:
+
+    sudo apt-get install libpng-dev libhidapi-dev
+
 
 ## Links
 [the badge @Banggood](https://www.banggood.com/XANES-X1-DIY-Bicycle-Taillight-Programmable-LED-Electronic-Advertising-Display-Bicycle-TailLight-USB-p-1220458.html) <br>
